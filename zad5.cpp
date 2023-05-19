@@ -1,0 +1,1 @@
+// to jest schemat blokowy 
