@@ -1,4 +1,4 @@
-#Podstawy Programowania w języku C++
+# Podstawy Programowania w języku C++
 ## Przykłady
 
 ### Zad. 1. 
