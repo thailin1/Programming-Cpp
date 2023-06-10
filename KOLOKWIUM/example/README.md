@@ -31,7 +31,7 @@ wypisze sumę wprowadzonych liczb dodatnich i ich ilość.
 ### **Zadanie. 8.**
 Napisać program do następującego algorytmu
 
-<br>![algorytm2](images/algorytm3.png)
+<br>![algorytm2](images/Algorytm3.png)
 
 ### **Zadanie. 9.**
 Dane jest n naturalne. Napisać algorytm/program, który wyznaczy n
