@@ -15,7 +15,7 @@ double funkcjanowa(double a, double b, unsigned n)
     return n*a;
   else
   {
-    zmienna 1=a*(1=pow(b,n))/(1-b);
+    zmienna1=a*(1-pow(b,n))/(1-b);
     return zmienna1;
   }
 }
