@@ -1,4 +1,4 @@
-# Kolokwium 5
+# Kolokwium 4
 
 Utwórz katalog którego nazwa będzie zawierała twoje imię i nazwisko. W tak utworzonym katalogu rozwiązania umieść pod nazwami zadaniel, zadanie2, itd. Do rozwiązania zadań nie używaj funkcji bibliotecznych za wyjątkiem operacji wejścia/wyjścia.
 
