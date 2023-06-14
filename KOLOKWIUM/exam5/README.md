@@ -9,13 +9,14 @@ Napisz program, który wczytuje ze standardowego wejścia dwie liczby wymierne i
  Napisz program, który wczytuje ze standardowego wejścia liczbę wymierną wypisuje liczbę o wartości bezwzględnej większej o jeden od wartości bezwzględnej wprowadzonej liczby ale o znaku przeciwnym do wprowadzonej liczby.
  
  ### **Zadanie 3.**
- Napisać program, który obliczy wartość S=sum l = 1 to k (i + 3)/(l ^ 2)Wartość liczby naturalnej k wprowadza się z klawiatury.
+ Napisać program, który obliczy wartość `S=sum i=1 do k (i+3)/(i^2)` Wartość liczby naturalnej k wprowadza się z klawiatury.
  
  ### **Zadanie 4.**
 Napisać program, który dla wprowadzonej przez użytkownika liczby naturalnej n obliczy n-ty wyraz ciągu danego wzorem:
+```
 an = 3 gdy n = 1 lub n = 2 poza tym
 2an-2+5an-1+1 po za tym
-
+```
 Użyj do tego celu funkcji.
 
 ### **Zadanie 5.**
