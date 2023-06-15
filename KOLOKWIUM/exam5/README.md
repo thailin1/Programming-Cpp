@@ -15,7 +15,7 @@ Napisz program, który wczytuje ze standardowego wejścia dwie liczby wymierne i
 Napisać program, który dla wprowadzonej przez użytkownika liczby naturalnej n obliczy n-ty wyraz ciągu danego wzorem:
 ```
 an = 3 gdy n = 1 lub n = 2 poza tym
-2an-2+5an-1+1 po za tym
+2(an-2)+5(an-1)+1 po za tym
 ```
 Użyj do tego celu funkcji.
 
