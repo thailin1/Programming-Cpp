@@ -34,6 +34,11 @@ redirect_to: cpp.dawidolko.pl
 **[Co to algorytm?](KOLOKWIUM/algorytmy/README.md) - Opis i zagadnienia**
  - [pobierz](KOLOKWIUM/algorytmy/AlgorytmyBlokowe.docx) - Plik z alorytmami do pobrania
 
+### Projekty:
+
+**[Co to projekty?](projects/README.md) - Definicja i zagadnienia**
+ - [Repozytorium](https://github.com/dawidolko/Programming-Cpp/tree/main/projects)
+
 ### Kursy:
 
 **[Co to kursy?](Courses/README.md) - Definicja i zagadnienia**
