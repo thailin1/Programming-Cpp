@@ -5,7 +5,7 @@ redirect_to: cpp.dawidolko.pl
 # Język C++
 
 ## Spis treści:
-[exam 1](exam1/README.md) - Kolokwium 1\
+[exam 1](KOLOKWIUM/exam1/README.md) - Kolokwium 1\
 [Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/exam1)
 
 [exam 2](exam2/README.md) - Kolokwium 2\
