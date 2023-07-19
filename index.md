@@ -2,8 +2,6 @@
 redirect_to: cpp.dawidolko.pl
 ---
 
-<center>
-
 # Język C++
 
 ## Spis treści:
@@ -32,7 +30,3 @@ redirect_to: cpp.dawidolko.pl
 
 [algorytmy](algorytmy/README.md) - opisów do zadań algortmów\
 [Algorytmy doc.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/algorytmy/AlgorytmyBlokowe.docx)
-
-</center>
-
-
