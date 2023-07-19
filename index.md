@@ -29,4 +29,4 @@ redirect_to: cpp.dawidolko.pl
 [Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/example)
 
 [algorytmy](algorytmy/README.md) - opisów do zadań algortmów\
-[Algorytmy doc.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/algorytmy/AlgorytmyBlokowe.docx)
+[Algorytmy](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/algorytmy/AlgorytmyBlokowe.docx) - Plik z alorytmami do pobrania
