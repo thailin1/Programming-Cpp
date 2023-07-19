@@ -13,7 +13,7 @@ Napisz program wczytujący ze standardowego wejścia liczbę całkowitą ni wypi
 Napisać program, który dla wprowadzonej przez użytkownika liczby naturalnej n obliczy n-ty wyraz ciągu danego wzorem:
 ```
 An = 4 gdy n = 1 lub n = 2
-3a(n-1)+7a(n-2) -2 poza tym
+3a(n-1)+7a(n-2)-2 poza tym
 ```
 Użyj do tego celu funkcji.
 
