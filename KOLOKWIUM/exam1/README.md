@@ -1,7 +1,6 @@
 # Kolokwium 1
 
-### 
-[Zadanie 1.](KOLOKWIUM/exam1/zad1.cpp)
+### [Zadanie 1.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam1/zad1.cpp)
 Napisać program który oblicza pole czworokąta foremnego o podanej przez użytkownika długości boku x.
 
 ### **Zadanie 2.**
