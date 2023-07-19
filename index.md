@@ -4,7 +4,7 @@ redirect_to: cpp.dawidolko.pl
 
 # Język C++
 
-<br>![C](C++.png)
+<br>![C++](C++.png)
 
 ## Spis treści:
 
