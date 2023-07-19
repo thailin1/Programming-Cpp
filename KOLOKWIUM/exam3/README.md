@@ -5,7 +5,7 @@
 ### [Zadanie 1.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad1.cpp)
 Omówić dwa rodzaje pętli w c++. Podać przykład kodu programu z wykorzystaniem jednej z nich.
 
-### [Zadanie 1.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad2.cpp)
+### [Zadanie 2.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad2.cpp)
 Opisać działanie następującej funkcji:
 ```
 double funkcjanowa(double a, double b, unsigned n)
@@ -23,15 +23,15 @@ double funkcjanowa(double a, double b, unsigned n)
 
 **Jaką wartość zwróci, gdy wywołamy ją z argumentami (2,3,4).**
 
-### [Zadanie 1.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad3.cpp)
+### [Zadanie 3.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad3.cpp)
 Napisać kod programu obliczający średnią arytmetyczną dwóch liczb całkowitych  podanych przez użytkownika.
 
-### [Zadanie 1.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad4.cpp)
+### [Zadanie 4.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad4.cpp)
 Użytkownik podaje trzy liczby rzeczywiste a, b, c będące długościami boków trójkąta. Napisać program, który sprawdzi, czy ten trójkąt jest prostokątny.
 
-### [Zadanie 1.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad5.cpp)
+### [Zadanie 5.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad5.cpp)
 Użytkownik podaje liczbę naturalną *n* będącą wymiarem przestrzeni R^n, a następnie dwa wektory w tej przestrzeni. Napisać kod programu, który zapisze te wektory w 
 tablicach i obliczy ich iloczyn skalarny.
 
-### [Zadanie 1.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad6.cpp)
+### [Zadanie 6.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/exam3/zad6.cpp)
 Napisać kod programu, który wypisze wszystkie dzielniki podanej przez użytkownika liczby naturalnej.
