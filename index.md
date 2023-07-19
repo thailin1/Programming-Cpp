@@ -2,15 +2,33 @@
 redirect_to: cpp.dawidolko.pl
 ---
 
-
-# Język Cpp
+# Język C++
 
 ## Spis treści:
-[Kolokwium 1](exam1/README.md) - Kolokwium 1\
-[Kolokwium 2](exam2/README.md) - Kolokwium 2\
-[Kolokwium 3](exam3/README.md) - Kolokwium 3\
-[Kolokwium 4](exam4/README.md) - Kolokwium 4\
-[Kolokwium 5](exam5/README.md) - Kolokwium 5\
-[Kolokwium 6](exam6/README.md) - Kolokwium 6\
-[Pliki](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM)
+[exam 1](exam1/README.md) - Kolokwium 1\
+[Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/exam1)\
 
+[exam 2](exam2/README.md) - Kolokwium 2\
+[Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/exam2)\
+
+[exam 3](exam3/README.md) - Egzamin 2022\
+[Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/exam3)\
+
+[exam 4](exam4/README.md) - Kolokwium 3\
+[Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/exam4)\
+
+[exam 5](exam5/README.md) - Kolokwium 4\
+[Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/exam5)\
+
+[exam 6](exam6/README.md) - Kolokwium 5\
+[Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/exam6)\
+
+[exam 7](exam7/README.md) - Zadania przykładowe do egzaminu.\
+[Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/exam7)\
+
+
+[example](example/README.md) - Przykładowe zadania do kolowium\
+[Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/example)\
+
+[algorytmy](algorytmy/README.md) - opisów do zadań algortmów\
+[Algorytmy doc.](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/algorytmy/AlgorytmyBlokowe.docx)
