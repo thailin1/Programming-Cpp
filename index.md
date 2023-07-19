@@ -31,8 +31,8 @@ redirect_to: cpp.dawidolko.pl
 [Treść zadań](KOLOKWIUM/example/README.md) - Przykładowe zadania do kolowium\
 [Rozwiązane zadania](https://github.com/dawidolko/Programming-Cpp/tree/main/KOLOKWIUM/example)
 
-[Treść zadań](KOLOKWIUM/algorytmy/README.md) - Opis do zadań algortmów\
-[Algorytmy](https://github.com/dawidolko/Programming-Cpp/blob/main/KOLOKWIUM/algorytmy/AlgorytmyBlokowe.docx) - Plik z alorytmami do pobrania
+[Co to algorytm?](KOLOKWIUM/algorytmy/README.md) - Opis i zagadnienia\
+[Algorytmy](KOLOKWIUM/algorytmy/AlgorytmyBlokowe.docx) - Plik z alorytmami do pobrania
 
 ### Kursy:
 
