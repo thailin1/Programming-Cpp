@@ -49,7 +49,7 @@ Napisać program/algorytm wyznaczający wartości ciągu danego wzorem rekurency
 Opisać sposób wymiany informacji pomiędzy programem a funkcją
 - argumenty
 - inne
-- 
+
 ## Zadanie 10. 
 Co to jest algorytm, sposoby jego prezentacji, cechy algorytmu.
 
