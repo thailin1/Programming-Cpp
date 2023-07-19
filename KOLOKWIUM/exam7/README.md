@@ -56,4 +56,5 @@ Co to jest algorytm, sposoby jego prezentacji, cechy algorytmu.
 ## Zadanie 11. 
 Typ plikowy.
 
-## Zadanie 12. Zmienne – rodzaje, typyI inne podane na zajęciac
+## Zadanie 12. 
+Zmienne – rodzaje, typy inne podane na zajęciach
