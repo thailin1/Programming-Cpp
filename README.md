@@ -8,8 +8,6 @@ The C++ Language repository contains sample projects, source code, and education
 ## **Repository Structure:**
 /Projects: This folder contains various projects that use C++. Each project has its own folder with description and source code.
 
-/Lab: Here you can find sample scripts and development tools that can help you work with C++.
-
 /Courses: This folder contains various types of educational material such as manuals, tutorials, and articles related to C++.
 
 ## **How ​​to start:**
